@@ -1,0 +1,1 @@
+# Dieses Modul enthält die GUI-Komponenten von Managrid
